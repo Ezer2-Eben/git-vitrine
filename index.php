@@ -181,7 +181,7 @@
                                     <div class="submenu-gap"></div>
                                 </div>
                                 <div class="submenu hidden absolute left-full top-0 bg-white shadow-lg rounded-md py-2 w-64 z-50 ml-1">
-                                    <a href="marketing/multimedia.php" class="block px-4 py-2 hover:bg-gray-100">Multimédia & infographie</a>
+                                    <a href="marketing/multimedia.php" class="block px-4 py-2 hover:bg-gray-100">Multimédia et infographie</a>
                                     <a href="marketing/photographie.php" class="block px-4 py-2 hover:bg-gray-100">Photographie & Traitement d'images</a>
                                     <a href="marketing/marketing&com.php" class="block px-4 py-2 hover:bg-gray-100">Marketing & communication digitale</a>
                                     <a href="#" class="block px-4 py-2 hover:bg-gray-100">Création de site web</a>
